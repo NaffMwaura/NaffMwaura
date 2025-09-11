@@ -28,10 +28,6 @@ _React/ Next.js/ Angular/ Node.js/ Express/ Tailwind CSS/ Bootstrap/ Fast API/ T
 ## [**Tools & Platforms:**]
 _Git/ GitHub/ PostgreSQL/ MongoDB/ Figma/ Vercel/ Docker_
 
-
-## 📊 GitHub Stats
-![Naff's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaffMwaura&show_icons=true&theme=dark)
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NaffMwaura&theme=dark)
 
@@ -50,6 +46,6 @@ LinkedIn: [[Naff Mwaura](https://www.linkedin.com/in/naff-mwaura-2bb415257/)]
 
 🐦 Twitter/X: [/[Naff Mwaura](https://x.com/Naff_Zoe)]
 
-🌐 Portfolio: [[](https://naffzoe-portfolio.netlify.app/)]
+🌐 Portfolio: [[_Naff Mwaura_](https://naffzoe-portfolio.netlify.app/)]
 
 # ⭐️ From Naff Mwaura
