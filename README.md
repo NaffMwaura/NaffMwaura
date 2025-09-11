@@ -42,10 +42,10 @@ _Git/ GitHub/ PostgreSQL/ MongoDB/ Figma/ Vercel/ Docker_
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaffMwaura&theme=github_dark&utcOffset=3)
 
 # Connect with me🔗
-LinkedIn: [[Naff Mwaura](https://www.linkedin.com/in/naff-mwaura-2bb415257/)]
+LinkedIn: [Naff Mwaura](https://www.linkedin.com/in/naff-mwaura-2bb415257/)
 
-🐦 Twitter/X: [/[Naff Mwaura](https://x.com/Naff_Zoe)]
+🐦 Twitter/X: [Naff Mwaura](https://x.com/Naff_Zoe)
 
-🌐 Portfolio: [[_Naff Mwaura_](https://naffzoe-portfolio.netlify.app/)]
+🌐 Portfolio: [_Naff Mwaura_](https://naffzoe-portfolio.netlify.app/)
 
 # ⭐️ From Naff Mwaura
