@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Naff Mwaura
 
-![Profile views](https://img.shields.io/badge/Profile%20views-XX-green)
-
 # About Me
 👨‍💻 I am a Software Developer. I am passionate about developing solutions and experimenting with emerging technologies.
 
