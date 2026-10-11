@@ -5,7 +5,7 @@
 
 🔭 I'm currently working on a plant disease leaf detector web and mobile application.
 
-🌱 I'm currently learning React Native, Typescript, and DevOps.
+🌱 I'm currently upskilling in C# development using the .NET platform.
 
 👯 I'm looking to collaborate on complete web solutions.
 
