@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Naff Mwaura
 
 # About Me
-👨‍💻 I am a Software Developer. I am passionate about developing solutions and experimenting with emerging technologies.
+👨‍💻 I am a Software Engineer. I am passionate about developing solutions and experimenting with emerging technologies.
 
-🔭 I'm currently working on a plant disease leaf detector web and mobile application.
+🔭 I'm currently working on an Offline first, PWA for Quantity Surveyors to assist them with a Pocket Knife that is able to carry out all their daily tasks including BoQ, cost planning and Site Measurement.
 
 🌱 I'm currently upskilling in C# development using the .NET platform.
 
@@ -20,10 +20,10 @@
 👨‍💻 All of my projects are available at [myportfolio](https://naffzoe-portfolio.netlify.app)
 
 ## [**Languages:**]
-_JavaScript/ TypeScript/ Python / SQL /C_
+_JavaScript/ TypeScript/ Python / SQL /C#_
 
 ## [**Frameworks and Libraries:**]
-_React/ Next.js/ Angular/ Node.js/ Express/ Tailwind CSS/ Bootstrap/ Fast API/ TensorFlow_
+_React/ Next.js/ Angular/ Node.js/ Express/ Tailwind CSS/ Bootstrap/ Fast API/ TensorFlow/ Dotnet_
 
 ## [**Tools & Platforms:**]
 _Git/ GitHub/ PostgreSQL/ MongoDB/ Figma/ Vercel/ Docker_
